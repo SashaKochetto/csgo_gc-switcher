@@ -1,0 +1,10 @@
+.venv
+__pycache__
+build
+dist
+modules/__pycache__
+updater/__pycache__
+updater/build
+updater/dist
+updater/launcher.spec
+main.spec
